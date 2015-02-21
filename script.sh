@@ -1,7 +1,5 @@
 #!/bin/bash
 # A script to do partial updates in Solr search server
-
-
 #set -n
 # Uncomment to check your syntax, without execution.
 #
